@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\HyoJP\source\repos\Raytracer\variables.h(57,2): warning C4091: 'extern ': ignored on left of 'triangle' when no variable is declared
+C:\Users\HyoJP\source\repos\Raytracer\variables.h(69,2): warning C4091: 'extern ': ignored on left of 'sphere' when no variable is declared
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(37,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(38,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(56,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(57,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(209,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(227,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(234,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(280,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(287,32): warning C4244: '=': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(288,36): warning C4244: '=': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(289,36): warning C4244: '=': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Raytracer.vcxproj -> C:\Users\HyoJP\source\repos\Raytracer\x64\Debug\Raytracer.exe

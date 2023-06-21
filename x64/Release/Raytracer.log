@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\HyoJP\source\repos\Raytracer\variables.h(57,2): warning C4091: 'extern ': ignored on left of 'triangle' when no variable is declared
+C:\Users\HyoJP\source\repos\Raytracer\variables.h(69,2): warning C4091: 'extern ': ignored on left of 'sphere' when no variable is declared
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(38,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(39,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(254,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(314,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(355,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(356,21): warning C4018: '<': signed/unsigned mismatch
+  readfile.cpp
+C:\Users\HyoJP\source\repos\Raytracer\variables.h(57,2): warning C4091: 'extern ': ignored on left of 'triangle' when no variable is declared
+C:\Users\HyoJP\source\repos\Raytracer\variables.h(69,2): warning C4091: 'extern ': ignored on left of 'sphere' when no variable is declared
+C:\Users\HyoJP\source\repos\Raytracer\Transform.h(22,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HyoJP\source\repos\Raytracer\readfile.cpp(64,33): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\readfile.cpp(64,46): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\readfile.cpp(64,59): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  Generating code
+  2 of 574 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Raytracer.vcxproj -> C:\Users\HyoJP\source\repos\Raytracer\x64\Release\Raytracer.exe

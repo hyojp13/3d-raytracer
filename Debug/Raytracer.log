@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\HyoJP\source\repos\Raytracer\variables.h(47,2): warning C4091: 'extern ': ignored on left of 'triangle' when no variable is declared
+C:\Users\HyoJP\source\repos\Raytracer\variables.h(58,2): warning C4091: 'extern ': ignored on left of 'sphere' when no variable is declared
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(31,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(32,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(41,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(42,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HyoJP\source\repos\Raytracer\main.cpp(120,21): warning C4018: '<': signed/unsigned mismatch
+  Raytracer.vcxproj -> C:\Users\HyoJP\source\repos\Raytracer\Debug\Raytracer.exe
